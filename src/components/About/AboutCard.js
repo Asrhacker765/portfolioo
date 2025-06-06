@@ -18,7 +18,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              --->  Exploring New Place
+              --->  Exploring New Places
             </li>
             <li className="about-activity">
               --->  Swimming
